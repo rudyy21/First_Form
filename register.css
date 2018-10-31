@@ -1,0 +1,27 @@
+/* *{
+    border-style: solid;
+    border-color: red;
+} */
+
+body{
+    font-family: sans-serif;
+}
+form{
+    background-color: black;
+    text-align: center;
+}
+label{
+    color: teal;
+
+}
+#container{
+    text-align: center;
+    display: inline-block;
+    height:500px;
+}
+p{
+    color: teal;
+}
+h1{
+    color: teal;
+}
